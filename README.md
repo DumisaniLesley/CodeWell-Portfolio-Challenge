@@ -28,3 +28,5 @@ If you want more real-time communication, you can visit our community on [Slack]
 
 For headings: https://fonts.google.com/specimen/Prata
 For body: https://fonts.google.com/specimen/Inter
+
+live demo is on: https://codewell-portfolio-challenge.netlify.app/
