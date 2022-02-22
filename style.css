@@ -39,6 +39,7 @@ body {
     background: var(--button-bg);
     font-size: 17px;
     font-weight: bold;
+    color: var(--bg-dark);
 }
 
 .btn:hover {
